@@ -18,5 +18,5 @@ by Kevin Powell  [ @Selfxplanatoryy ]
 
 3. Some users have sometimes have to unzip then go into the folder that was just unzip then copy the other .theme folder.
 
-~Contact Me~
+Contact Me
 Twitter: @Selfxplanatoryy
