@@ -1,8 +1,10 @@
-# NotificationBadges
+# Notification Badges
 iOS / Android Notification Badges
-by Kevin Powell  [ @Selfxplanatoryy ]
+by Kevin Douglas-Powell @Selfxplanatoryy
 
 ~ Badge Installation Guide ~
+
+First Download Zip
 
 1.Unzip Badge folder
 
